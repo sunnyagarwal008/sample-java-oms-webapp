@@ -1,0 +1,18 @@
+# Compiled class files
+target/
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment files
+.env
